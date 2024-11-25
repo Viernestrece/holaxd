@@ -82,8 +82,8 @@ if sentir == "1"{
 print("el paciente: ",nombre)
     print(" el paciente refiere que del 1 al 7 se siente  ", sentir)
         
-    
 
+print("fff")
 
 
 
